@@ -3,7 +3,9 @@
 Instalasi 
 
 clone repository ini
+
 pip install -r requirements.txt
+
 isi proxy 
 python run.py
 paste id grass
