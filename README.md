@@ -1,14 +1,16 @@
 # Grassbot
 
 ### Instalasi 
-clone repository ini
+- clone repository ini
+- buka File proxy_list.txt
+- isi proxy
 
+```
 pip install -r requirements.txt
-
-isi proxy 
-
+```
+```
 python run.py
-
+```
 paste id grass
 
 
